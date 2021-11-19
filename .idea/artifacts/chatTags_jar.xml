@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="chatTags:jar">
+    <output-path>$PROJECT_DIR$/../../servermc/plugins</output-path>
+    <root id="archive" name="chatTags.jar">
+      <element id="module-output" name="chatTags" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarLibs/spigot-api-1.17.1-R0.1-20211105.101322-97.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarLibs/gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

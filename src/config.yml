@@ -1,0 +1,12 @@
+### tags
+# tag_player_name - sender name
+# tag_message
+
+OP: "§4[Admin] tag_player_name§f: tag_message"
+OP_Priority: 1 # 1 - format ignoring permission, 0 - format permission if player has
+Default: "tag_player_name: tag_message"
+Custom:
+  vip:
+    permission: chattags.vip # it can be any permission you want!
+    format: "§6[VIP] tag_player_name§f: tag_message"
+    weight: 1

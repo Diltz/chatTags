@@ -1,0 +1,6 @@
+name: ChatTags
+main: plgs.diltz.chattags.Main
+description: "Plugin for Chat Tags"
+api-version: 1.17
+version: 1.0
+permissions:
